@@ -1,4 +1,4 @@
---> IMPORT THIS FILE INTO REMOTE DB SEVER THROUGH COMMAND: db2 -td@ -v -f sql-triggers.sql
+Step 3). AFTER IMPORTING "sql-create-table.sql" FILE, IMPORT THIS FILE INTO REMOTE DB SEVER THROUGH COMMAND: db2 -td@ -v -f sql-triggers.sql
 
 CREATE TRIGGER neueEinschreibung
 AFTER INSERT ON kurs
