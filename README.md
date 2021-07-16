@@ -1,12 +1,10 @@
 # Moodle
-Moodle web application. Fetching data from remote database
+Moodle web application. Fetching data from remote database server. 
 
-This is a moodle web application with: 
+#Front-End HTML(.ftl) pages
 
-Front-End HTML(.ftl) pages
+#Back-End (Java EE/Java Servlet/Java JDBC) pages
 
-Back-End (Java EE) pages
+#SQL scripts for DB2. Backend connected to Remote Database.
 
-Remote-DB - IBM DB2
-
-Eclipse Jetty Server
+#Eclipse Jetty Server used for launching the application.
